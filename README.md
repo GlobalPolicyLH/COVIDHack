@@ -8,23 +8,23 @@ We have created this GitHub repository called COVIDHack to serve as a central co
 
 We will forward Google form to submit information from your respective cities/countries to include the following:
 
-*1. Policies*
+1. *Policies*
 
 (i) Government COVID-19 policies
 
 (ii) Government contact information
 
-*2. Incentives and Grants*
+2. *Incentives and Grants*
 
 (i) Governmental incentives and grants 
 
-*3. Education and Information*
+3. *Education and Information*
 
 (i) Government advice resources
 
 (ii) Reliable news/updates
 
-*4. Entrepreneurship*
+4. *Entrepreneurship*
 
 (i) Tech innovations to relieve and fight the pandemic 
 
